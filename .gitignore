@@ -1,0 +1,29 @@
+# OS trash
+
+*.log
+*.bak
+*~
+~*
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+nohup.out
+pid/
+*.pid
+*.log
+
+# NodeJS
+
+node_modules/
+
+# IntelliJ IDEA
+
+.idea/
+*.ipr
+*.iml
+*.iws

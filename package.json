@@ -1,0 +1,36 @@
+{
+  "name": "did-you-mean",
+  "version": "0.0.0",
+  "description": "Fuzzy match a command from a list (typo-safety)",
+  "dependencies": {
+    "levenshtein": "*",
+    "underscore": "*"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inca/did-you-mean"
+  },
+  "keywords": [
+    "typo",
+    "match",
+    "fuzzy",
+    "list",
+    "array",
+    "command",
+    "search",
+    "index"
+  ],
+  "author": "Boris Okunskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inca/did-you-mean/issues"
+  },
+  "homepage": "https://github.com/inca/did-you-mean"
+}
