@@ -1,6 +1,6 @@
 {
   "name": "did-you-mean",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Fuzzy match a command from a list (typo-safety)",
   "dependencies": {
     "levenshtein": "*",
