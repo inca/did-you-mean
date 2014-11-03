@@ -19,7 +19,7 @@ npm install did-you-mean
 ## Usage
 
 ```
-var Matcher = require('did-you-mean')
+var Matcher = require('did-you-mean');
 
 // Create a matcher with a list of values
 var m = new Matcher('init install update upgrade');
