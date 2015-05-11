@@ -12,13 +12,13 @@ You can use it in:
 
 ## Installation
 
-```
-npm install did-you-mean
+```bash
+$ npm install did-you-mean
 ```
 
 ## Usage
 
-```
+```js
 var Matcher = require('did-you-mean');
 
 // Create a matcher with a list of values
